@@ -16,7 +16,7 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: checkout actions
-      - uses: actions/checkout@v1
+        uses: actions/checkout@v1
 
       - name: download genpac
         run: pip install -U genpac
