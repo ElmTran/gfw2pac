@@ -22,7 +22,7 @@ jobs:
         run: pip install -U genpac
 
       - name: update pac
-        run: genpac --format=pac --pac-proxy="SOCKS5 127.0.0.1:1080" -o gfwlist.pac
+        run: genpac --format=pac --pac-proxy="SOCKS5 127.0.0.1:4781" -o gfwlist.pac
 
       - name: commit
         run: |
