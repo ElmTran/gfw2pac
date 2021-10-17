@@ -1,0 +1,35 @@
+# This is a basic workflow to help you get started with Actions
+
+name: gfwlist2pac
+
+# Controls when the workflow will run
+on:
+  # Triggers the workflow on push or pull request events but only for the master branch
+  push:
+  schedule:
+    - cron: '0 21 * * *'
+  
+
+# A workflow run is made up of one or more jobs that can run sequentially or in parallel
+jobs:
+  bot:
+    runs-on: ubuntu-latest
+    steps:
+      - name: checkout actions
+      - uses: actions/checkout@v1
+      - name: download genpac
+        run: pip install -U genpac
+      - name: update pac
+        run: |
+            cd gfw2pac
+            genpac --format=pac --pac-proxy="SOCKS5 127.0.0.1:1080"
+      - name: commit
+        run: |
+          git config --global user.email c897611977@gmail.com
+          git config --global user.name ElmTran
+          git add .
+          git commit -m "update pac" -a
+      - name: push changes
+        uses: ad-m/github-push-action@master
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
