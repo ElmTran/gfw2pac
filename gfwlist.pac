@@ -1,7 +1,7 @@
 /**
  * genpac 2.1.0 https://github.com/JinnLynn/genpac
- * Generated: 2021-10-24 02:03:34
- * GFWList Last-Modified: 2021-10-18 14:14:25
+ * Generated: 2021-10-25 02:04:29
+ * GFWList Last-Modified: 2021-10-25 00:03:30
  * GFWList From: online[https://raw.githubusercontent.com/gfwlist/gfwlist/master/gfwlist.txt]
  */
 
@@ -1975,6 +1975,7 @@ var rules = [
             "girlbanker.com",
             "git.io",
             "gitbooks.io",
+            "githack.com",
             "github.blog",
             "github.com",
             "github.io",
@@ -3626,6 +3627,7 @@ var rules = [
             "nordstromimage.com",
             "nordstromrack.com",
             "nordvpn.com",
+            "notepad-plus-plus.org",
             "nottinghampost.com",
             "novelasia.com",
             "now.com",
