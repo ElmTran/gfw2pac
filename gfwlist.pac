@@ -1,7 +1,7 @@
 /**
  * genpac 2.1.0 https://github.com/JinnLynn/genpac
- * Generated: 2021-10-30 01:59:25
- * GFWList Last-Modified: 2021-10-25 00:03:30
+ * Generated: 2021-10-31 02:03:36
+ * GFWList Last-Modified: 2021-10-30 03:30:32
  * GFWList From: online[https://raw.githubusercontent.com/gfwlist/gfwlist/master/gfwlist.txt]
  */
 
@@ -4837,6 +4837,7 @@ var rules = [
             "thehousenews.com",
             "thehun.net",
             "theinitium.com",
+            "themoviedb.org",
             "thenewslens.com",
             "thepiratebay.org",
             "theporndude.com",
@@ -4852,6 +4853,7 @@ var rules = [
             "thetibetpost.com",
             "thetinhat.com",
             "thetrotskymovie.com",
+            "thetvdb.com",
             "thevivekspot.com",
             "thewgo.org",
             "theync.com",
