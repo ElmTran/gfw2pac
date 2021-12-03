@@ -1,7 +1,7 @@
 /**
  * genpac 2.1.0 https://github.com/JinnLynn/genpac
- * Generated: 2021-12-02 02:02:32
- * GFWList Last-Modified: 2021-11-01 16:10:37
+ * Generated: 2021-12-03 02:02:10
+ * GFWList Last-Modified: 2021-12-02 14:07:18
  * GFWList From: online[https://raw.githubusercontent.com/gfwlist/gfwlist/master/gfwlist.txt]
  */
 
@@ -1026,6 +1026,7 @@ var rules = [
             "clipfish.de",
             "cloakpoint.com",
             "cloudcone.com",
+            "cloudflare-ipfs.com",
             "cloudfront.net",
             "club1069.com",
             "clubhouseapi.com",
@@ -1961,6 +1962,7 @@ var rules = [
             "gfsale.com",
             "gfw.org.ua",
             "gfw.press",
+            "gfw.report",
             "ggpht.com",
             "ggssl.com",
             "ghidra-sre.org",
@@ -4028,6 +4030,7 @@ var rules = [
             "privatepaste.com",
             "privatetunnel.com",
             "privatevpn.com",
+            "privoxy.org",
             "procopytips.com",
             "project-syndicate.org",
             "prosiben.de",
