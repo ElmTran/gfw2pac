@@ -1,7 +1,7 @@
 /**
  * genpac 2.1.0 https://github.com/JinnLynn/genpac
- * Generated: 2021-12-10 02:00:48
- * GFWList Last-Modified: 2021-12-02 14:07:18
+ * Generated: 2021-12-11 02:02:24
+ * GFWList Last-Modified: 2021-12-10 18:38:34
  * GFWList From: online[https://raw.githubusercontent.com/gfwlist/gfwlist/master/gfwlist.txt]
  */
 
@@ -1296,6 +1296,7 @@ var rules = [
             "dlsite.jp",
             "dlyoutube.com",
             "dm530.net",
+            "dmc.nico",
             "dmcdn.net",
             "dmhy.org",
             "dmm.co.jp",
