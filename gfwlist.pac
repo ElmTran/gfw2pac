@@ -1,7 +1,7 @@
 /**
  * genpac 2.1.0 https://github.com/JinnLynn/genpac
- * Generated: 2021-12-17 02:07:55
- * GFWList Last-Modified: 2021-12-10 18:38:34
+ * Generated: 2021-12-18 02:08:47
+ * GFWList Last-Modified: 2021-12-17 14:11:48
  * GFWList From: online[https://raw.githubusercontent.com/gfwlist/gfwlist/master/gfwlist.txt]
  */
 
@@ -1468,7 +1468,6 @@ var rules = [
             "eltondisney.com",
             "emaga.com",
             "emanna.com",
-            "embr.in",
             "emilylau.org.hk",
             "emory.edu",
             "empfil.com",
@@ -4965,6 +4964,7 @@ var rules = [
             "tibetwrites.org",
             "ticket.com.tw",
             "tigervpn.com",
+            "tiktok.com",
             "tiltbrush.com",
             "timdir.com",
             "time.com",
@@ -5207,6 +5207,7 @@ var rules = [
             "txxx.com",
             "tycool.com",
             "typepad.com",
+            "typora.io",
             "u15.info",
             "u9un.com",
             "ub0.cc",
