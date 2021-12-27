@@ -1,7 +1,7 @@
 /**
  * genpac 2.1.0 https://github.com/JinnLynn/genpac
- * Generated: 2021-12-26 02:10:08
- * GFWList Last-Modified: 2021-12-20 18:03:28
+ * Generated: 2021-12-27 02:07:30
+ * GFWList Last-Modified: 2021-12-26 16:08:25
  * GFWList From: online[https://raw.githubusercontent.com/gfwlist/gfwlist/master/gfwlist.txt]
  */
 
@@ -675,6 +675,7 @@ var rules = [
             "bloomberg.de",
             "bloombergview.com",
             "bloomfortune.com",
+            "blubrry.com",
             "blueangellive.com",
             "bmfinn.com",
             "bnews.co",
@@ -4060,6 +4061,7 @@ var rules = [
             "pt.im",
             "pts.org.tw",
             "ptt.cc",
+            "pttgame.com",
             "pttvan.org",
             "pubu.com.tw",
             "puffinbrowser.com",
@@ -4913,7 +4915,9 @@ var rules = [
             "tibetancommunity.org",
             "tibetancommunityuk.net",
             "tibetanculture.org",
+            "tibetanentrepreneurs.org",
             "tibetanfeministcollective.org",
+            "tibetanhealth.org",
             "tibetanjournal.com",
             "tibetanlanguage.org",
             "tibetanliberation.org",
@@ -5045,6 +5049,7 @@ var rules = [
             "trickip.net",
             "trickip.org",
             "trimondi.de",
+            "tronscan.org",
             "trouw.nl",
             "trt.net.tr",
             "trtc.com.tw",
