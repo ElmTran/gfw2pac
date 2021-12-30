@@ -1,7 +1,7 @@
 /**
  * genpac 2.1.0 https://github.com/JinnLynn/genpac
- * Generated: 2021-12-29 02:06:32
- * GFWList Last-Modified: 2021-12-26 16:08:25
+ * Generated: 2021-12-30 02:06:21
+ * GFWList Last-Modified: 2021-12-29 15:31:35
  * GFWList From: online[https://raw.githubusercontent.com/gfwlist/gfwlist/master/gfwlist.txt]
  */
 
@@ -1631,6 +1631,7 @@ var rules = [
             "fangong.org",
             "fangongheike.com",
             "fanhaodang.com",
+            "fanhaolou.com",
             "fanqiang.network",
             "fanqiang.tk",
             "fanqiangdang.com",
@@ -2001,7 +2002,7 @@ var rules = [
             "gluckman.com",
             "glype.com",
             "gmail.com",
-            "gmbd.cn",
+            "gmgard.com",
             "gmhz.org",
             "gmiddle.com",
             "gmiddle.net",
@@ -2785,6 +2786,7 @@ var rules = [
             "istockphoto.com",
             "isunaffairs.com",
             "isuntv.com",
+            "isupportuyghurs.org",
             "itaboo.info",
             "itaiwan.gov.tw",
             "italiatibet.org",
@@ -2993,6 +2995,7 @@ var rules = [
             "ktzhk.com",
             "kucoin.com",
             "kui.name",
+            "kukuku.uk",
             "kun.im",
             "kurashsultan.com",
             "kurtmunger.com",
@@ -4540,6 +4543,7 @@ var rules = [
             "sokmil.com",
             "solidaritetibet.org",
             "solidfiles.com",
+            "solv.finance",
             "somee.com",
             "songjianjun.com",
             "sonicbbs.cc",
@@ -5310,6 +5314,7 @@ var rules = [
             "uwants.net",
             "uyghur-j.org",
             "uyghur.co.uk",
+            "uyghuraa.org",
             "uyghuramerican.org",
             "uyghurbiz.org",
             "uyghurcanadiansociety.org",
