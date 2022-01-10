@@ -1,7 +1,7 @@
 /**
  * genpac 2.1.0 https://github.com/JinnLynn/genpac
- * Generated: 2022-01-09 02:12:40
- * GFWList Last-Modified: 2022-01-08 18:30:03
+ * Generated: 2022-01-10 02:09:33
+ * GFWList Last-Modified: 2022-01-10 01:31:44
  * GFWList From: online[https://raw.githubusercontent.com/gfwlist/gfwlist/master/gfwlist.txt]
  */
 
@@ -3195,6 +3195,7 @@ var rules = [
             "malaysiakini.com",
             "mamingzhe.com",
             "manchukuo.net",
+            "mandiant.com",
             "mangafox.com",
             "mangafox.me",
             "maniash.com",
@@ -3743,6 +3744,7 @@ var rules = [
             "olevod.com",
             "olumpo.com",
             "olympicwatch.org",
+            "omct.org",
             "omgili.com",
             "omni7.jp",
             "omnitalk.com",
@@ -4294,6 +4296,7 @@ var rules = [
             "sadistic-v.com",
             "sadpanda.us",
             "safechat.com",
+            "safeguarddefenders.com",
             "safervpn.com",
             "safety.google",
             "saintyculture.com",
@@ -4734,6 +4737,7 @@ var rules = [
             "tahr.org.tw",
             "taipei.gov.tw",
             "taipeisociety.org",
+            "taipeitimes.com",
             "taiwan-sex.com",
             "taiwanbible.com",
             "taiwancon.com",
@@ -5309,7 +5313,6 @@ var rules = [
             "uspto.gov",
             "ustibetcommittee.org",
             "ustream.tv",
-            "usunitednews.com",
             "usus.cc",
             "utopianpal.com",
             "uu-gg.com",
@@ -5322,12 +5325,12 @@ var rules = [
             "uyghuraa.org",
             "uyghuramerican.org",
             "uyghurbiz.org",
-            "uyghurcanadiansociety.org",
+            "uyghurcanadian.ca",
             "uyghurcongress.org",
-            "uyghurensemble.co.uk",
             "uyghurpen.org",
             "uyghurpress.com",
             "uyghurstudies.org",
+            "uyghurtribunal.com",
             "uygur.org",
             "uymaarip.com",
             "v2ex.com",
@@ -5725,6 +5728,7 @@ var rules = [
             "xml-training-guide.com",
             "xmovies.com",
             "xn--4gq171p.com",
+            "xn--9pr62r24a.com",
             "xn--czq75pvv1aj5c.org",
             "xn--i2ru8q2qg.com",
             "xn--ngstr-lra8j.com",
