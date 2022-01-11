@@ -1,7 +1,7 @@
 /**
  * genpac 2.1.0 https://github.com/JinnLynn/genpac
- * Generated: 2022-01-10 02:09:33
- * GFWList Last-Modified: 2022-01-10 01:31:44
+ * Generated: 2022-01-11 02:10:34
+ * GFWList Last-Modified: 2022-01-10 23:23:31
  * GFWList From: online[https://raw.githubusercontent.com/gfwlist/gfwlist/master/gfwlist.txt]
  */
 
@@ -569,6 +569,7 @@ var rules = [
             "behance.net",
             "behindkink.com",
             "beijing1989.com",
+            "beijing2022.art",
             "beijingspring.com",
             "beijingzx.org",
             "belamionline.com",
