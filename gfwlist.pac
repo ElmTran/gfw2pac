@@ -1,7 +1,7 @@
 /**
  * genpac 2.1.0 https://github.com/JinnLynn/genpac
- * Generated: 2022-01-28 02:01:24
- * GFWList Last-Modified: 2022-01-21 21:44:46
+ * Generated: 2022-01-29 01:55:36
+ * GFWList Last-Modified: 2022-01-28 14:16:48
  * GFWList From: online[https://raw.githubusercontent.com/gfwlist/gfwlist/master/gfwlist.txt]
  */
 
@@ -3381,6 +3381,7 @@ var rules = [
             "monlamit.org",
             "monster.com",
             "moodyz.com",
+            "moon.fm",
             "moonbbs.com",
             "moonbingo.com",
             "moptt.tw",
@@ -3973,6 +3974,7 @@ var rules = [
             "po2b.com",
             "pobieramy.top",
             "podbean.com",
+            "podcast.co",
             "podictionary.com",
             "pokerstars.com",
             "pokerstars.net",
