@@ -1,7 +1,7 @@
 /**
  * genpac 2.1.0 https://github.com/JinnLynn/genpac
- * Generated: 2022-02-13 02:04:48
- * GFWList Last-Modified: 2022-01-29 02:25:08
+ * Generated: 2022-02-14 01:58:58
+ * GFWList Last-Modified: 2022-02-13 15:17:05
  * GFWList From: online[https://raw.githubusercontent.com/gfwlist/gfwlist/master/gfwlist.txt]
  */
 
@@ -197,6 +197,7 @@ var rules = [
             "6parkbbs.com",
             "6parker.com",
             "6parknews.com",
+            "7-zip.org",
             "7capture.com",
             "7cow.com",
             "8-d.com",
