@@ -1,7 +1,7 @@
 /**
  * genpac 2.1.0 https://github.com/JinnLynn/genpac
- * Generated: 2022-02-23 02:09:39
- * GFWList Last-Modified: 2022-02-13 15:17:05
+ * Generated: 2022-02-24 02:10:16
+ * GFWList Last-Modified: 2022-02-23 18:03:12
  * GFWList From: online[https://raw.githubusercontent.com/gfwlist/gfwlist/master/gfwlist.txt]
  */
 
@@ -5073,6 +5073,7 @@ var rules = [
             "truebuddha-md.org",
             "trulyergonomic.com",
             "truthontour.org",
+            "truthsocial.com",
             "truveo.com",
             "tryheart.jp",
             "tsctv.net",
