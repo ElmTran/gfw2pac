@@ -1,5 +1,5 @@
 # gfw2pac
-Convert gfwlist.txt to pac every day.
+Convert gfw_whitelist to pac every day.
 ## Credits  
-- [gfwlist](https://github.com/breakwa11/gfw_whitelist)  
+- [gfw_whitelist](https://github.com/breakwa11/gfw_whitelist)  
 - [genpac](https://github.com/JinnLynn/genpac)  
