@@ -1,7 +1,7 @@
 /**
  * genpac 2.1.0 https://github.com/JinnLynn/genpac
- * Generated: 2022-03-13 02:07:57
- * GFWList Last-Modified: 2022-03-12 03:16:06
+ * Generated: 2022-03-14 02:15:51
+ * GFWList Last-Modified: 2022-03-13 04:32:43
  * GFWList From: online[https://raw.githubusercontent.com/gfwlist/gfwlist/master/gfwlist.txt]
  */
 
@@ -726,6 +726,7 @@ var rules = [
             "breakwall.net",
             "briefdream.com",
             "briian.com",
+            "brill.com",
             "brizzly.com",
             "brkmd.com",
             "broadbook.com",
