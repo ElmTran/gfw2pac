@@ -1,7 +1,7 @@
 /**
  * genpac 2.1.0 https://github.com/JinnLynn/genpac
- * Generated: 2022-05-21 02:22:50
- * GFWList Last-Modified: 2022-04-21 15:44:52
+ * Generated: 2022-05-22 02:49:08
+ * GFWList Last-Modified: 2022-05-21 17:51:40
  * GFWList From: online[https://raw.githubusercontent.com/gfwlist/gfwlist/master/gfwlist.txt]
  */
 
@@ -2043,6 +2043,7 @@ var rules = [
             "gongminliliang.com",
             "gongwt.com",
             "goo.gl",
+            "goo.gle",
             "goo.ne.jp",
             "gooday.xyz",
             "gooddns.info",
@@ -2888,6 +2889,7 @@ var rules = [
             "joinclubhouse.com",
             "joinmastodon.org",
             "joins.com",
+            "jornaldacidadeonline.com.br",
             "journalchretien.net",
             "journalofdemocracy.org",
             "joymiihub.com",
@@ -2895,6 +2897,7 @@ var rules = [
             "jp.net",
             "jpopforum.net",
             "jqueryui.com",
+            "jsdelivr.net",
             "jshell.net",
             "jtvnw.net",
             "jubushoushen.com",
@@ -3265,7 +3268,8 @@ var rules = [
             "megarotic.com",
             "megavideo.com",
             "megurineluka.com",
-            "meirixiaochao.com",
+            "meizhong.blog",
+            "meizhong.report",
             "meltoday.com",
             "memehk.com",
             "memorybbs.com",
@@ -3553,6 +3557,7 @@ var rules = [
             "netflix.com",
             "netflix.net",
             "netme.cc",
+            "netsarang.com",
             "netsneak.com",
             "network54.com",
             "networkedblogs.com",
@@ -3804,6 +3809,7 @@ var rules = [
             "organiccrap.com",
             "orgasm.com",
             "orgfree.com",
+            "oricon.co.jp",
             "orient-doll.com",
             "orientaldaily.com.my",
             "orn.jp",
@@ -3821,6 +3827,7 @@ var rules = [
             "oursweb.net",
             "ourtv.hk",
             "over-blog.com",
+            "overcast.fm",
             "overdaily.org",
             "overplay.net",
             "ovi.com",
@@ -4563,6 +4570,7 @@ var rules = [
             "soifind.com",
             "sokamonline.com",
             "sokmil.com",
+            "solana.com",
             "solidaritetibet.org",
             "solidfiles.com",
             "solv.finance",
@@ -4862,6 +4870,7 @@ var rules = [
             "thedalailamamovie.com",
             "thediplomat.com",
             "thedw.us",
+            "theepochtimes.com",
             "thefacebook.com",
             "thefrontier.hk",
             "thegay.com",
@@ -5321,6 +5330,7 @@ var rules = [
             "usacn.com",
             "usaip.eu",
             "usc.edu",
+            "uscnpm.org",
             "usembassy.gov",
             "usfk.mil",
             "usma.edu",
