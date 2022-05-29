@@ -1,7 +1,7 @@
 /**
  * genpac 2.1.0 https://github.com/JinnLynn/genpac
- * Generated: 2022-05-28 02:47:55
- * GFWList Last-Modified: 2022-05-22 04:32:24
+ * Generated: 2022-05-29 03:08:32
+ * GFWList Last-Modified: 2022-05-28 04:50:06
  * GFWList From: online[https://raw.githubusercontent.com/gfwlist/gfwlist/master/gfwlist.txt]
  */
 
@@ -5536,6 +5536,7 @@ var rules = [
             "waymo.com",
             "wda.gov.tw",
             "wdf5.com",
+            "wealth.com.tw",
             "wearehairy.com",
             "wearn.com",
             "weather.com.hk",
@@ -5739,6 +5740,7 @@ var rules = [
             "xinbao.de",
             "xing.com",
             "xinhuanet.org",
+            "xinjiangpolicefiles.org",
             "xinmiao.com.hk",
             "xinsheng.net",
             "xinshijue.com",
