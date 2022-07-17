@@ -1,7 +1,7 @@
 /**
  * genpac 2.1.0 https://github.com/JinnLynn/genpac
- * Generated: 2022-07-16 03:06:41
- * GFWList Last-Modified: 2022-05-28 04:50:06
+ * Generated: 2022-07-17 03:17:15
+ * GFWList Last-Modified: 2022-07-17 01:18:24
  * GFWList From: online[https://raw.githubusercontent.com/gfwlist/gfwlist/master/gfwlist.txt]
  */
 
@@ -719,6 +719,7 @@ var rules = [
             "brave.com",
             "bravotube.net",
             "brazzers.com",
+            "breached.to",
             "break.com",
             "breakgfw.com",
             "breaking911.com",
@@ -757,6 +758,7 @@ var rules = [
             "bunbunhk.com",
             "busayari.com",
             "business-humanrights.org",
+            "business.page",
             "businessinsider.com",
             "businessinsider.com.au",
             "businesstoday.com.tw",
@@ -1715,6 +1717,7 @@ var rules = [
             "finler.net",
             "firearmsworld.net",
             "firebaseio.com",
+            "firefox.com",
             "fireofliberty.org",
             "firetweet.io",
             "firstfivefollowers.com",
@@ -4380,6 +4383,7 @@ var rules = [
             "sellclassics.com",
             "sendsmtp.com",
             "sendspace.com",
+            "sensortower.com",
             "seraph.me",
             "servehttp.com",
             "serveuser.com",
@@ -5673,6 +5677,7 @@ var rules = [
             "wow-life.net",
             "wow.com",
             "wowgirls.com",
+            "wowhead.com",
             "wowlegacy.ml",
             "wowporn.com",
             "wowrk.com",
