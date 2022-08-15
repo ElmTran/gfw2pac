@@ -1,7 +1,7 @@
 /**
  * genpac 2.1.0 https://github.com/JinnLynn/genpac
- * Generated: 2022-08-14 03:12:30
- * GFWList Last-Modified: 2022-07-17 01:18:24
+ * Generated: 2022-08-15 03:28:09
+ * GFWList Last-Modified: 2022-08-14 16:21:11
  * GFWList From: online[https://raw.githubusercontent.com/gfwlist/gfwlist/master/gfwlist.txt]
  */
 
@@ -374,7 +374,6 @@ var rules = [
             "annatam.com",
             "anobii.com",
             "anontext.com",
-            "anonymise.us",
             "anonymitynetwork.com",
             "anonymizer.com",
             "anonymouse.org",
@@ -1901,6 +1900,7 @@ var rules = [
             "gamez.com.tw",
             "gamousa.com",
             "ganges.com",
+            "ganjingworld.com",
             "gaoming.net",
             "gaopi.net",
             "gaozhisheng.net",
@@ -4068,6 +4068,7 @@ var rules = [
             "procopytips.com",
             "project-syndicate.org",
             "prosiben.de",
+            "proton.me",
             "protonvpn.com",
             "provideocoalition.com",
             "provpnaccounts.com",
