@@ -1,7 +1,7 @@
 /**
  * genpac 2.1.0 https://github.com/JinnLynn/genpac
- * Generated: 2022-09-11 03:38:40
- * GFWList Last-Modified: 2022-08-16 15:38:52
+ * Generated: 2022-09-12 03:54:23
+ * GFWList Last-Modified: 2022-09-11 16:01:04
  * GFWList From: online[https://raw.githubusercontent.com/gfwlist/gfwlist/master/gfwlist.txt]
  */
 
@@ -648,6 +648,7 @@ var rules = [
             "blinkx.com",
             "blinw.com",
             "blip.tv",
+            "blockcast.it",
             "blockcn.com",
             "blockedbyhk.com",
             "blockless.com",
@@ -1130,6 +1131,7 @@ var rules = [
             "crossfire.co.kr",
             "crossthewall.net",
             "crossvpn.net",
+            "croxyproxy.com",
             "crrev.com",
             "crucial.com",
             "crunchyroll.com",
@@ -3086,7 +3088,7 @@ var rules = [
             "liberal.org.hk",
             "libertytimes.com.tw",
             "libraryinformationtechnology.com",
-            "lidecheng.com",
+            "libredd.it",
             "lifemiles.com",
             "lighten.org.tw",
             "lighti.me",
@@ -4701,6 +4703,7 @@ var rules = [
             "studentsforafreetibet.org",
             "stumbleupon.com",
             "stupidvideos.com",
+            "substack.com",
             "successfn.com",
             "sueddeutsche.de",
             "sugarsync.com",
@@ -5424,6 +5427,7 @@ var rules = [
             "viu.com",
             "viu.tv",
             "vivahentai4u.net",
+            "vivaldi.com",
             "vivatube.com",
             "vivthomas.com",
             "vizvaz.com",
