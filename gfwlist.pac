@@ -1,7 +1,7 @@
 /**
  * genpac 2.1.0 https://github.com/JinnLynn/genpac
- * Generated: 2022-10-29 03:07:51
- * GFWList Last-Modified: 2022-10-28 14:50:19
+ * Generated: 2022-10-30 03:24:11
+ * GFWList Last-Modified: 2022-10-30 02:47:21
  * GFWList From: online[https://raw.githubusercontent.com/gfwlist/gfwlist/master/gfwlist.txt]
  */
 
@@ -2923,6 +2923,7 @@ var rules = [
             "juoaa.com",
             "justdied.com",
             "justfreevpn.com",
+            "justhost.ru",
             "justicefortenzin.org",
             "justmysocks1.net",
             "justpaste.it",
