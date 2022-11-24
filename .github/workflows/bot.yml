@@ -11,6 +11,9 @@ jobs:
     steps:
       - name: checkout actions
         uses: actions/checkout@v1
+      - uses: actions/setup-python@v4
+        with:
+            python-version: '3.8.10'
 
       - name: download genpac
         run: pip install -U genpac
