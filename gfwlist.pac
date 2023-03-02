@@ -1,7 +1,7 @@
 /**
  * genpac 2.1.0 https://github.com/JinnLynn/genpac
- * Generated: 2023-03-01 02:39:24
- * GFWList Last-Modified: 2023-02-08 04:34:51
+ * Generated: 2023-03-02 02:33:38
+ * GFWList Last-Modified: 2023-03-01 03:50:34
  * GFWList From: online[https://raw.githubusercontent.com/gfwlist/gfwlist/master/gfwlist.txt]
  */
 
@@ -269,6 +269,7 @@ var rules = [
             "advertfan.com",
             "advertisercommunity.com",
             "ae.org",
+            "aei.org",
             "aenhancers.com",
             "aex.com",
             "af.mil",
