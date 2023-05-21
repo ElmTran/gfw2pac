@@ -1,7 +1,7 @@
 /**
  * genpac 2.1.0 https://github.com/JinnLynn/genpac
- * Generated: 2023-05-20 02:03:52
- * GFWList Last-Modified: 2023-03-26 13:35:48
+ * Generated: 2023-05-21 02:12:26
+ * GFWList Last-Modified: 2023-05-20 03:42:18
  * GFWList From: online[https://raw.githubusercontent.com/gfwlist/gfwlist/master/gfwlist.txt]
  */
 
@@ -1329,6 +1329,7 @@ var rules = [
             "dnsrd.com",
             "dnssec.net",
             "dnvod.tv",
+            "docker.com",
             "doctorvoice.org",
             "documentingreality.com",
             "dogfartnetwork.com",
@@ -3885,6 +3886,7 @@ var rules = [
             "packetix.net",
             "pacopacomama.com",
             "padmanet.com",
+            "page.link",
             "page.tl",
             "page2rss.com",
             "pages.dev",
@@ -4030,6 +4032,7 @@ var rules = [
             "podbean.com",
             "podcast.co",
             "podictionary.com",
+            "poe.com",
             "pokerstars.com",
             "pokerstars.net",
             "pokerstrategy.com",
