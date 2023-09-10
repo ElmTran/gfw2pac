@@ -1,7 +1,7 @@
 /**
  * genpac 2.1.0 https://github.com/JinnLynn/genpac
- * Generated: 2023-09-09 01:47:53
- * GFWList Last-Modified: 2023-07-23 17:13:01
+ * Generated: 2023-09-10 01:53:26
+ * GFWList Last-Modified: 2023-09-09 04:06:49
  * GFWList From: online[https://raw.githubusercontent.com/gfwlist/gfwlist/master/gfwlist.txt]
  */
 
@@ -2036,6 +2036,7 @@ var rules = [
             "goagent.biz",
             "goagentplus.com",
             "gobet.cc",
+            "godaddy.com",
             "godfootsteps.org",
             "godns.work",
             "godoc.org",
