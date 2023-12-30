@@ -1,7 +1,7 @@
 /**
  * genpac 2.1.0 https://github.com/JinnLynn/genpac
- * Generated: 2023-12-29 01:48:06
- * GFWList Last-Modified: 2023-12-02 06:34:49
+ * Generated: 2023-12-30 01:52:48
+ * GFWList Last-Modified: 2023-12-29 17:08:31
  * GFWList From: online[https://raw.githubusercontent.com/gfwlist/gfwlist/master/gfwlist.txt]
  */
 
@@ -2326,7 +2326,6 @@ var rules = [
             "graphis.ne.jp",
             "graphql.org",
             "gravatar.com",
-            "greasespot.net",
             "great-firewall.com",
             "great-roc.org",
             "greatfire.org",
@@ -3769,6 +3768,7 @@ var rules = [
             "oauth.net",
             "observechina.net",
             "obutu.com",
+            "obyte.org",
             "ocaspro.com",
             "occupytiananmen.com",
             "oclp.hk",
@@ -4134,6 +4134,7 @@ var rules = [
             "psiphon.ca",
             "psiphon3.com",
             "psiphontoday.com",
+            "pstatic.net",
             "pt.im",
             "pts.org.tw",
             "ptt.cc",
@@ -4962,6 +4963,7 @@ var rules = [
             "thomasbernhard.org",
             "thongdreams.com",
             "threadreaderapp.com",
+            "threads.net",
             "threatchaos.com",
             "throughnightsfire.com",
             "thumbzilla.com",
@@ -5703,12 +5705,12 @@ var rules = [
             "witopia.net",
             "wizcrafts.net",
             "wjbk.org",
+            "wmflabs.org",
             "wn.com",
             "wnacg.com",
             "wnacg.org",
             "wo.tc",
             "woeser.com",
-            "woesermiddle-way.net",
             "wokar.org",
             "wolfax.com",
             "wombo.ai",
@@ -5866,6 +5868,7 @@ var rules = [
             "yam.org.tw",
             "yande.re",
             "yandex.com",
+            "yandex.ru",
             "yanghengjun.com",
             "yangjianli.com",
             "yasni.co.uk",
