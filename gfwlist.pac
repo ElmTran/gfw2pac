@@ -1,7 +1,7 @@
 /**
  * genpac 2.1.0 https://github.com/JinnLynn/genpac
- * Generated: 2023-12-30 01:52:48
- * GFWList Last-Modified: 2023-12-29 17:08:31
+ * Generated: 2023-12-31 01:59:21
+ * GFWList Last-Modified: 2023-12-30 17:31:14
  * GFWList From: online[https://raw.githubusercontent.com/gfwlist/gfwlist/master/gfwlist.txt]
  */
 
@@ -801,6 +801,7 @@ var rules = [
             "caijinglengyan.com",
             "calameo.com",
             "calebelston.com",
+            "calendarz.com",
             "calgarychinese.ca",
             "calgarychinese.com",
             "calgarychinese.net",
@@ -870,6 +871,7 @@ var rules = [
             "cdef.org",
             "cdig.info",
             "cdjp.org",
+            "cdn-telegram.org",
             "cdnews.com.tw",
             "cdninstagram.com",
             "cdp1989.org",
@@ -1098,6 +1100,7 @@ var rules = [
             "comic-mega.me",
             "comico.tw",
             "commandarms.com",
+            "comments.app",
             "commentshk.com",
             "communistcrimes.org",
             "communitychoicecu.com",
@@ -1950,6 +1953,7 @@ var rules = [
             "geekheart.info",
             "gekikame.com",
             "gelbooru.com",
+            "generated.photos",
             "genius.com",
             "geocities.co.jp",
             "geocities.com",
@@ -2323,6 +2327,7 @@ var rules = [
             "grammaly.com",
             "grandtrial.org",
             "grangorz.org",
+            "graph.org",
             "graphis.ne.jp",
             "graphql.org",
             "gravatar.com",
@@ -2618,6 +2623,8 @@ var rules = [
             "hudatoriq.web.id",
             "hudson.org",
             "huffingtonpost.com",
+            "huffpost.com",
+            "huggingface.co",
             "hugoroy.eu",
             "huhaitai.com",
             "huhamhire.com",
@@ -4193,6 +4200,7 @@ var rules = [
             "questvisual.com",
             "quitccp.net",
             "quitccp.org",
+            "quiz.directory",
             "quora.com",
             "quoracdn.net",
             "quran.com",
@@ -4892,9 +4900,11 @@ var rules = [
             "tehrantimes.com",
             "telecomspace.com",
             "telegra.ph",
+            "telegram-cdn.org",
             "telegram.dog",
             "telegram.me",
             "telegram.org",
+            "telegram.space",
             "telegramdownload.com",
             "telegraph.co.uk",
             "telesco.pe",
@@ -5590,6 +5600,7 @@ var rules = [
             "wav.tv",
             "waveprotocol.org",
             "waymo.com",
+            "wd.bible",
             "wda.gov.tw",
             "wdf5.com",
             "wealth.com.tw",
