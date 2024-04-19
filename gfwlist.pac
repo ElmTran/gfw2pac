@@ -1,7 +1,7 @@
 /**
  * genpac 2.1.0 https://github.com/JinnLynn/genpac
- * Generated: 2024-04-18 01:52:20
- * GFWList Last-Modified: 2024-04-14 14:56:29
+ * Generated: 2024-04-19 01:53:26
+ * GFWList Last-Modified: 2024-04-18 15:17:15
  * GFWList From: online[https://raw.githubusercontent.com/gfwlist/gfwlist/master/gfwlist.txt]
  */
 
@@ -52,7 +52,6 @@ var rules = [
             "nmp.gov.tw",
             "nmvttc.gov.tw",
             "northguan-nsa.gov.tw",
-            "npm.gov.tw",
             "nstm.gov.tw",
             "ntdmh.gov.tw",
             "ntl.gov.tw",
@@ -1558,6 +1557,7 @@ var rules = [
             "etadult.com",
             "etaiwannews.com",
             "etherdelta.com",
+            "ethermine.org",
             "etherscan.io",
             "etizer.org",
             "etokki.com",
@@ -1597,6 +1597,7 @@ var rules = [
             "ezpc.tk",
             "ezpeer.com",
             "ezua.com",
+            "f2pool.com",
             "f8.com",
             "fa.gov.tw",
             "facebook.br",
@@ -2598,6 +2599,7 @@ var rules = [
             "hrcir.com",
             "hrea.org",
             "hrichina.org",
+            "hrntt.org",
             "hrtsea.com",
             "hrw.org",
             "hrweb.org",
@@ -2963,6 +2965,7 @@ var rules = [
             "juyuange.org",
             "juziyue.com",
             "jwmusic.org",
+            "jwplayer.com",
             "jyxf.net",
             "k-doujin.net",
             "ka-wai.com",
@@ -3711,6 +3714,7 @@ var rules = [
             "noypf.com",
             "npa.go.jp",
             "npa.gov.tw",
+            "npm.gov.tw",
             "npnt.me",
             "nps.gov",
             "npsboost.com",
@@ -4095,6 +4099,7 @@ var rules = [
             "postimg.org",
             "potato.im",
             "potvpn.com",
+            "pourquoi.tw",
             "power.com",
             "powerapple.com",
             "powercx.com",
@@ -5976,6 +5981,7 @@ var rules = [
             "z-lib.org",
             "zacebook.com",
             "zalmos.com",
+            "zamimg.com",
             "zannel.com",
             "zaobao.com",
             "zaobao.com.sg",
