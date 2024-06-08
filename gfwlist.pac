@@ -1,7 +1,7 @@
 /**
  * genpac 2.1.0 https://github.com/JinnLynn/genpac
- * Generated: 2024-06-07 02:02:02
- * GFWList Last-Modified: 2024-06-05 16:48:37
+ * Generated: 2024-06-08 01:59:52
+ * GFWList Last-Modified: 2024-06-07 03:48:34
  * GFWList From: online[https://raw.githubusercontent.com/gfwlist/gfwlist/master/gfwlist.txt]
  */
 
@@ -3133,6 +3133,7 @@ var rules = [
             "lianyue.net",
             "liaowangxizang.net",
             "liberal.org.hk",
+            "libertysculpturepark.com",
             "libertytimes.com.tw",
             "libraryinformationtechnology.com",
             "libredd.it",
@@ -5770,6 +5771,7 @@ var rules = [
             "wqyd.org",
             "wrchina.org",
             "wretch.cc",
+            "writesonic.com",
             "wsj.com",
             "wsj.net",
             "wsjhk.com",
