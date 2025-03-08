@@ -1,7 +1,7 @@
 /**
  * genpac 3.0.1 https://github.com/JinnLynn/genpac
- * Generated: 2025-03-07 02:23:13
- * GFWList Last-Modified: 2025-03-05 10:44:39
+ * Generated: 2025-03-08 01:58:56
+ * GFWList Last-Modified: 2025-03-08 01:22:12
  * GFWList From: online[https://raw.githubusercontent.com/gfwlist/gfwlist/master/gfwlist.txt]
  */
 
@@ -119,6 +119,7 @@ var rules = [
             "wanfang.gov.tw",
             "weibo.com",
             "www.ampproject.org",
+            "www.ettoday.net",
             "www.exblog.jp",
             "www.google.cn",
             "www.kodingen.com",
@@ -237,6 +238,7 @@ var rules = [
             "66.ca",
             "666kb.com",
             "666pool.cn",
+            "69shuba.cx",
             "6do.news",
             "6do.world",
             "6park.com",
@@ -2253,6 +2255,7 @@ var rules = [
             "github.blog",
             "github.com",
             "github.io",
+            "githubassets.com",
             "githubcopilot.com",
             "githubusercontent.com",
             "gizlen.net",
@@ -2530,6 +2533,7 @@ var rules = [
             "google.vn",
             "google.vu",
             "google.ws",
+            "googleapis.com",
             "googleapps.com",
             "googlearth.com",
             "googleartproject.com",
@@ -3546,7 +3550,6 @@ var rules = [
             "manta.com",
             "manyvoices.news",
             "maplew.com",
-            "maps.googleapis.com",
             "marc.info",
             "marguerite.su",
             "martau.com",
@@ -3782,6 +3785,7 @@ var rules = [
             "mummysgold.com",
             "murmur.tw",
             "musicade.net",
+            "musixmatch.com",
             "muslimvideo.com",
             "muzi.com",
             "muzi.net",
@@ -4371,6 +4375,7 @@ var rules = [
             "politicalconsultation.org",
             "politiscales.net",
             "poloniex.com",
+            "polymarket.com",
             "polymer-project.org",
             "polymerhk.com",
             "poolbinance.com",
@@ -5533,7 +5538,6 @@ var rules = [
             "tradingview.com",
             "trans.wenweipo.com",
             "translate.goog",
-            "translate.googleapis.com",
             "transparency.org",
             "treemall.com.tw",
             "trendsmap.com",
@@ -6130,7 +6134,6 @@ var rules = [
             "wikiversity.org",
             "wikivoyage.org",
             "wikiwand.com",
-            "wikiwiki.jp",
             "wiktionary.org",
             "wildammo.com",
             "williamhill.com",
