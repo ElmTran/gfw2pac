@@ -1,7 +1,7 @@
 /**
  * genpac 3.0.1 https://github.com/JinnLynn/genpac
- * Generated: 2025-03-08 01:58:56
- * GFWList Last-Modified: 2025-03-08 01:22:12
+ * Generated: 2025-03-09 02:03:51
+ * GFWList Last-Modified: 2025-03-08 03:02:43
  * GFWList From: online[https://raw.githubusercontent.com/gfwlist/gfwlist/master/gfwlist.txt]
  */
 
@@ -5705,6 +5705,7 @@ var rules = [
             "twitvid.com",
             "twitzap.com",
             "twiyia.com",
+            "twkan.com",
             "twnorth.org.tw",
             "twreporter.org",
             "twskype.com",
