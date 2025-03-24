@@ -1,7 +1,7 @@
 /**
  * genpac 3.0.1 https://github.com/JinnLynn/genpac
- * Generated: 2025-03-23 02:37:23
- * GFWList Last-Modified: 2025-03-23 01:48:09
+ * Generated: 2025-03-24 02:36:55
+ * GFWList Last-Modified: 2025-03-23 08:14:59
  * GFWList From: online[https://raw.githubusercontent.com/gfwlist/gfwlist/master/gfwlist.txt]
  */
 
@@ -1288,6 +1288,7 @@ var rules = [
             "coin2co.in",
             "coinbase.com",
             "coinbene.com",
+            "coincarp.com",
             "coinegg.com",
             "coinex.com",
             "coingecko.com",
@@ -2204,6 +2205,7 @@ var rules = [
             "geekheart.info",
             "gekikame.com",
             "gelbooru.com",
+            "gemini.com",
             "generated.photos",
             "genius.com",
             "geocities.co.jp",
@@ -4140,6 +4142,7 @@ var rules = [
             "on.cc",
             "on2.com",
             "onapp.com",
+            "one.one.one.one",
             "onedrive.com",
             "onedrive.live.com",
             "onedumb.com",
